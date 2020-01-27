@@ -1,6 +1,6 @@
 
 """
-© 2020 Jiena He and J. Ronald Eastman
+Â© 2020 Jiena He and J. Ronald Eastman
 
 """
 
@@ -152,13 +152,13 @@ def read_residual_filename(path,name_prefix):
     return all_file
 
 
-###### Name part - the user need to modify this part ######
+###### Name part - the user needs to modify this part ######
 # The number of SATA components   
 node_num = 10
 
 epochs =500
 
-# number of hiden nodes 
+# number of hidden nodes 
 encoding_dim = 1
 
 ###The inputs and outputs should be in the same folder
