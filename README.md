@@ -1,12 +1,13 @@
 <h1>A-Sequential-Autoencoder-for-Teleconnection-Analysis</h1>
 
 
-![alt text](/E:/Autoencoder/images/frame.png "The structure of a Sequential Autoencoder for Teleconnection Analysis (SATA)")
-
 <h2>Usage</h2>
 
-Requirement:
-TerrSet: Version 2020
-Python: 3.7.5
-Tensorflow-GPU 2.0.0
+<p>Requirement:</p>
+
+<ul>
+<li>TerrSet: Version 2020</li>
+<li>Python: 3.7.5</li>
+<li>Tensorflow-GPU 2.0.0</li>
+</ul>
 
