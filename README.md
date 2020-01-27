@@ -6,7 +6,7 @@
 <p>Requirement:</p>
 
 <ul>
-<li>TerrSet: Version 2020</li>
+<li>TerrSet 2020</li>
 <li>Python: 3.7.5</li>
 <li>Tensorflow-GPU 2.0.0</li>
 </ul>
